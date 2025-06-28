@@ -7,9 +7,9 @@ This analysis explores job listings data to identify trends in demand across sec
  Key Fields include : Best Fits for the role, Switched careers, Current Salary, etc.
 
 ### Data Preparation Steps
- Removed Duplicates / null values
- Transformed Data Fields
- Created calculated columns
- Merged datasets
+ Removed Duplicates / null values,
+ Transformed Data Fields,
+ Created calculated columns,
+ Merged datasets.
 
  
